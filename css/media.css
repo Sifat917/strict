@@ -1,0 +1,264 @@
+@media(min-width:1201px) and (max-width:1440px){
+
+}
+@media(min-width:1024px) and (max-width:1200px){
+    .content {
+        margin-top: 2% !important;
+    }
+    .btn-order{
+        margin-left: 48%;
+    }
+    .logo{
+        margin-left: 60%;
+    }
+}
+@media(min-width:993px) and (max-width:1025px){
+.btn-order{
+    margin-left: 38%;
+}
+.logo{
+    margin-left: 60%;
+}
+.content {
+    margin-top: 2% !important;
+}
+    .icon{
+        left: 53.5%;
+    }
+}
+
+
+
+@media(min-width:769px) and (max-width:992px){
+    .logo1 {
+        width: 100%;
+    }
+    .banner h1 {
+        padding-top: 25%;
+        font-size: 85px;
+    }
+    .btn-order{
+        margin-left: 36%;
+    }
+    footer i{
+
+    }
+    .logo{
+        margin-left: 60%;
+    }
+    
+}
+
+
+@media(min-width:576px) and (max-width:768px){
+    .logo1 {
+        margin-left: 45%;
+    }
+    .banner h1 {
+        padding-top: 35%;
+        font-size: 85px;
+    }
+    .banner p {
+        padding-top: 2%;
+    }
+    .banner a{
+        margin-top: 6%;
+        padding: 12px 25px;
+    }
+    .icon {
+        left: 54.5%;
+    }
+    .content-part {
+        margin: 8% -4% !important;
+    }
+    .btn-order{
+        margin-left: 20%;
+        padding: 5px 32px;
+    }
+    .logo {
+        margin-top: 5%;
+        margin-left: 53%;
+    }
+    footer i {
+        font-size: 14px;
+    }
+    footer p{
+        margin-left: 10%;
+    }
+    
+    
+    
+}
+
+
+@media(min-width:425px) and (max-width:576px){
+    .logo1 {
+        margin-left: 20% !important;
+    }
+    .banner h1 {
+        padding-top: 15%;
+        font-size: 80px;
+    }
+    .banner p {
+        padding-top: 0%;
+    }
+    .banner a{
+        padding: 12px 25px;
+        margin-top: 5%;
+    }
+    .icon{
+        left: 56.5%;
+    }
+    .design p {
+        padding-top: 1%;
+        font-size: 14px;
+        color: #999999;
+    }
+    .image {
+        position: relative;
+        margin: 2% 20%;
+    }
+    .contact-form {
+        width: 70%;
+    }
+    .btn-order{
+        margin-left: 50%;
+        padding: 4px 28px;
+    }
+    .logo {
+        margin-top: -11%;
+        margin-left: 70%;
+    }
+}
+
+@media(min-width:376px) and (max-width:426px){
+    .banner h1 {
+        padding-top: 28%;
+        font-size: 75px;
+    }
+    .banner a {
+        padding: 10px 22px;
+        margin-top: 10%;
+        position: relative;
+        left: -14%;
+    }
+    .banner p{
+        font-size: 14px;
+    }
+    .icon {
+        left: 58.5%;
+    }
+    .part1{
+        margin-bottom: -5% !important;
+    }
+    .btn-order{
+        margin-left: 28% !important;
+        padding: 4px 28px;
+    }
+    footer i{
+        font-size: 12px;
+    }
+    footer p {
+        color: #999999;
+        padding-top: 8px;
+        margin-left: 12px;
+        font-size: 14px;
+    }
+    .logo {
+        margin-top: -16% !important;
+        margin-left: 58% !important;
+    }
+
+}
+
+@media(min-width:320px) and (max-width:376px){
+    .logo1 {
+        width: 65%;
+        margin-left: 10%;
+    }
+    .banner h1 {
+        padding-top: 30%;
+        font-size: 61px;
+    }
+    .banner p {
+        padding-top: 3%;
+        font-size: 12px;
+    }
+    .banner a{
+        padding: 10px 25px;
+    margin-top: 8%;
+    }
+    .icon{
+        left: 59.5%;
+    }
+    .design p{
+        font-size: 12px;
+    margin: 5%;
+    }
+    .image {
+        position: relative;
+        margin: 3% 10%;
+    }
+    .part1{
+        margin-bottom: -5% !important;
+    }
+    .showcase p {
+        color: #999999;
+        font-size: 14px;
+        margin-bottom: -5%;
+    }
+    .showcase h2 {
+        font-size: 20px;
+    }
+    .contact-form {
+        width: 73%;
+        
+    }
+    label{
+        font-size: 10px;
+    }
+    .btn-order{
+        margin-left: 26%;
+    padding: 5px 25px;
+    }
+    .logo {
+        margin-top: -17%;
+        margin-left: 59%;
+    }
+    footer i{
+        font-size: 10px;
+    }
+    footer p{
+        font-size: 12px;
+        margin-left: 10px;
+    }
+}
+
+@media(min-width:0px) and (max-width:320px){
+    .banner p {
+        padding-top: 3%;
+        font-size: 11px;
+        margin: 5px 20px;
+    }
+    .icon {
+        left: 62.5%;
+    }
+    .btn-order {
+        margin-left: 20%;
+        padding: 4px 20px;
+    }
+    footer i {
+        font-size: 8px;
+        padding: 7px;
+        margin: 0px 1px;
+    }
+    .logo {
+        margin-top: -20%;
+        margin-left: 65%;
+    }
+
+}
+
+
+
+
